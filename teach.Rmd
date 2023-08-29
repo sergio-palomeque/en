@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+description: |
+  My experience in university teaching has been developed at undergraduate and postgraduate levels, both in courses related to data analysis and in others focused on labour economics, development and research methodology in economics.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Postgraduate
+
+- Social Network Analysis - Master in Economics - FCEA - UdelaR.
+  - Since 2018 I have been teaching this course together with Dr. Pablo Galaso. There is an online version of the course (only in Spanish) that can be consulted at this [link](<https://sergio-palomeque.github.io/ARS_Course/>).
+- Topics in Labour Economics - Master in Economics - FCEA - UdelaR.
+  - Since 2017 I have participated in this course together with Dr. Rodrigo Ceni and Dr. Andrés Dean.
+
+# Undergraduate
+
+- Databases and Statistical Software - Bachelor in Economics - FCEA - UdelaR.
+  - Since 2017, I have been part of the team of this course, where we introduce students to the use of statistical and econometric packages applied to economics. I am currently responsible for the module on statistical software [*R*](<https://www.r-project.org/>).
+- Introduction to Research Methodology - Bachelor in Economics - FCEA - UdelaR.
+  - My role is to conduct workshops on research methodology, as well as to guide teams in the development of a research project.
+- Development and Welfare - Bachelor in Economics - FCEA - UdelaR.
+  - Between 2021 and 2022 I participated in this course based on some chapters of [The Economy](<https://www.core-econ.org/the-economy/en/>)
+  
+# Workshops
+
+- Using patent data for collaboration network analysis. An application with USTPO data in PatentsView
+  - Together with Dr. Pablo Galaso, we taught this [workshop](https://www.insna.org/using-patent-data-for-collaboration-network-analysis-an-application-with-ustpo-data-in-patentsview) at Sunbelt Congress 2023. This is the annual meeting of the International Network for Social Network Analysis, one of the world's two most important social network analysis communities.

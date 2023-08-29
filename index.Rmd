@@ -1,0 +1,33 @@
+---
+title: "Welcome!"
+description: |
+  ![](sp.jpeg){width=120px}
+  
+  My name is Sergio Palomeque; I am a lecturer and researcher at the [Institute of Economics in the Economics Department of FCEA-UdelaR](https://iecon.fcea.udelar.edu.uy/en/), where I got my bachelor's and master's degrees in economics. I am currently a PhD student at [FCE-UBA](http://www.economicas.uba.ar/doctorado/). I am co-coordinator of the [Regional Studies Association Research Network on Knowledge, Innovation and Regional Development in South America (KIRDSA)](https://www.regionalstudies.org/network/knowledge-innovation-and-regional-development-in-south-america/)
+  
+  On this site, you can access information about my research areas, publications, teaching materials and courses.
+  
+  The means to get in touch with me and find out more about my work are:
+  
+  sergio.palomeque@fcea.edu.uy
+  
+  <!-- <a href="CV_SP_short.pdf" class="image fit"><img src="logos/cv.png" alt="" width="25px"></a>  -->
+  [![](logos/cv.png){width=30px}](https://www.dropbox.com/scl/fi/iqctokbnrr6fegumjab1r/CV_SP_short.pdf?rlkey=gertjmi3kxwn97o2uzfwb8dlw&dl=1)[![](logos/orcid.png){width=30px}](https://orcid.org/0000-0002-5396-3578)   [![](logos/sc.png){width=30px}](https://www.scopus.com/authid/detail.uri?authorId=57220006530)   [![](logos/git.png){width=30px}](https://github.com/sergio-palomeque)   [![](logos/rg.png){width=30px}](https://www.researchgate.net/profile/Sergio-Palomeque) [![](logos/gsch.png){width=30px}](https://scholar.google.com/citations?hl=es&tzom=180&user=nvTbroQAAAAJ)   [![](logos/cvuy.png){width=30px}](https://exportcvuy.anii.org.uy/cv/?4d1d53606c249c31e34388c44e7fc037da7e975686b0c0f01ce38f187b1d7f652ecd964138d57f7fccd37706e6fd07c11de0e83087b8c20e109d168b3b8ddfc2)   [![](logos/x.png){width=30px}](https://twitter.com/sergi_palomeque) [![](logos/kirdsa.jpeg){width=50px}](https://www.regionalstudies.org/network/knowledge-innovation-and-regional-development-in-south-america/)
+
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+# Create a GitHub website with distill in less than 30 minutes
+# https://www.andreashandel.com/posts/2021-03-21-simple-distill-website/index.html
+
+
+```
