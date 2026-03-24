@@ -3,14 +3,15 @@ title: "Research"
 description: |
   My research focuses on the impact of knowledge flows and local capabilities on innovation, technology adoption, and development. The theoretical framework from which I approach these phenomena considers the social interactions that characterise the economy as a complex system. From this perspective, it is understood that the system evolves partially conditioned by its past and the territory in which economic activities occur.
 
-  My main papers have been published in:
+  <!-- My main papers have been published in: -->
 
-  <a href="https://www.scimagojr.com/journalsearch.php?q=144651&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=144651" alt="SCImago Journal &amp; Country Rank" width="150px" /></a>
-  <a href="https://www.scimagojr.com/journalsearch.php?q=15143&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=15143" alt="SCImago Journal &amp; Country Rank" width="150px" /></a>
-  <a href="https://www.scimagojr.com/journalsearch.php?q=21366&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21366" alt="SCImago Journal &amp; Country Rank" width="150px" /></a>
+  <!-- <a href="https://www.scimagojr.com/journalsearch.php?q=144651&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=144651" alt="SCImago Journal &amp; Country Rank" width="150px" /></a> -->
+  <!-- <a href="https://www.scimagojr.com/journalsearch.php?q=15143&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=15143" alt="SCImago Journal &amp; Country Rank" width="150px" /></a> -->
+  <!-- <a href="https://www.scimagojr.com/journalsearch.php?q=21366&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21366" alt="SCImago Journal &amp; Country Rank" width="150px" /></a> -->
   <!-- <a href="https://www.scimagojr.com/journalsearch.php?q=11500153514&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=11500153514" alt="SCImago Journal &amp; Country Rank" width="150px" /></a> -->
   <!-- <a href="https://www.scimagojr.com/journalsearch.php?q=21100983214&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100983214" alt="SCImago Journal &amp; Country Rank" width="150px" /></a> -->
   <!-- <a href="https://www.scimagojr.com/journalsearch.php?q=6800153107&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=6800153107" alt="SCImago Journal &amp; Country Rank" width="150px" /></a> -->
+
 ---
 
 ```{r setup, include=FALSE}
@@ -19,59 +20,65 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Journal articles
 
-Bianchi, C., Galaso, P.,& Palomeque, S. (2023). Knowledge complexity and brokerage in inter-city networks. [*The Journal of Technology Transfer*](https://www.springer.com/journal/10961){target="_blank"}, 48(5), 1773–1799. <https://doi.org/10.1007/s10961-023-10025-x>{target="_blank"}
+- Menéndez, M. de las M., Palomeque, S., Valverde-Carbonell, J., & Pietrobelli, C. (2026). Green window of opportunity in Latin America: local and global knowledge linkages. [*World Development*](https://www.sciencedirect.com/journal/world-development){target="_blank"}, 203, 107390. <https://doi.org/10.1016/j.worlddev.2026.107390>{target="_blank"}
 
-<div>
-<p style = 'text-align:center;'>
-<img src="papers/bgp2023.png" alt="JuveYell" width="300px">
+- Bianchi, C., Galaso, P., & Palomeque, S. (2026). A dynamic view on the Latin American innovation system at continental, national, and local level. [*Science and Public Policy*](https://academic.oup.com/spp){target="_blank"}, 56(4). <https://doi.org/10.1093/scipol/scaf085>{target="_blank"}
+
+- Galaso, P., & Palomeque, S. (2025). Improving Locally While Competing Globally: Network Effects on Innovation Performance in Cities. [*Growth and Change*](https://onlinelibrary.wiley.com/journal/14682257){target="_blank"}, 53(1), 17–31. <https://doi.org/10.1111/grow.70067>{target="_blank"}
+
+- Bianchi, C., Galaso, P.,& Palomeque, S. (2023). Knowledge complexity and brokerage in inter-city networks. [*The Journal of Technology Transfer*](https://www.springer.com/journal/10961){target="_blank"}, 48(5), 1773–1799. <https://doi.org/10.1007/s10961-023-10025-x>{target="_blank"}
+
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <img src="papers/bgp2023.png" alt="JuveYell" width="300px"> -->
 <!-- <img src="papers/bgp2023CS.png" alt="JuveYell" width="150px"> -->
-</p>
-</div>
+<!-- </p> -->
+<!-- </div> -->
 
 - Bianchi, C., Galaso, P., & Palomeque, S. (2023). The trade-offs of brokerage in inter-city innovation networks. [*Regional Studies*](https://www.tandfonline.com/journals/cres20){target="_blank"}, 57(2), 225–238. <https://doi.org/10.1080/00343404.2021.1973664>{target="_blank"}
 
-<div>
-<p style = 'text-align:center;'>
-<img src="papers/bgp2021b.png" alt="JuveYell" width="300px">
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <img src="papers/bgp2021b.png" alt="JuveYell" width="300px"> -->
 <!-- <img src="papers/bgp2021bCS.png" alt="JuveYell" width="150px"> -->
-</p>
-</div>
+<!-- </p> -->
+<!-- </div> -->
 
 - Bianchi, C., Galaso, P., & Palomeque, S. (2023). Absorptive capacities and external openness in underdeveloped Innovation Systems: A patent network analysis for Latin American countries 1970-2017. [*Cambridge Journal of Economics*](https://academic.oup.com/cje){target="_blank"}, 47(6), 1139–1170. <https://doi.org/10.1093/cje/bead034>{target="_blank"}
 
-<div>
-<p style = 'text-align:center;'>
-<img src="papers/bgp2023b.png" alt="JuveYell" width="300px">
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <img src="papers/bgp2023b.png" alt="JuveYell" width="300px"> -->
 <!-- <img src="papers/bgpFCCS.png" alt="JuveYell" width="150px"> -->
-</p>
-</div>
+<!-- </p> -->
+<!-- </div> -->
 
 - Bianchi, C., Galaso, P., Palomeque, S., Picasso, S., & Rodríguez Miranda, A. (2023). Innovación en Uruguay entre 1970 y 2018: una aproximación a través de los datos de patentes. [*Revista Española de Documentación Científica*](https://redc.revistas.csic.es/index.php/redc){target="_blank"}, 46(3), e364. <https://doi.org/10.3989/redc.2023.3.1955>{target="_blank"}
 
-<div>
-<p style = 'text-align:center;'>
-<img src="papers/bgppr2023.png" alt="JuveYell" width="300px">
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <img src="papers/bgppr2023.png" alt="JuveYell" width="300px"> -->
 <!-- <img src="papers/bgppr2023CS.png" alt="JuveYell" width="150px"> -->
-</p>
-</div>
+<!-- </p> -->
+<!-- </div> -->
 
 - Bianchi, C., Galaso, P., & Palomeque, S. (2021). Patent Collaboration Networks in Latin America: Extra-regional Orientation and Core-Periphery Structure. [*Journal of Scientometric Research*](https://jscires.org/){target="_blank"}, 10(1s), s59–s70. <https://doi.org/10.5530/jscires.10.1s.22>{target="_blank"}
 
-<div>
-<p style = 'text-align:center;'>
-<img src="papers/bgp2021a.png" alt="JuveYell" width="300px">
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <img src="papers/bgp2021a.png" alt="JuveYell" width="300px"> -->
 <!-- <img src="papers/bgp2021aCS.png" alt="JuveYell" width="150px"> -->
-</p>
-</div>
+<!-- </p> -->
+<!-- </div> -->
 
 - Brida, J. G., & Palomeque, S. (2020). Innovation networks: an agent-based model. [*International Journal of Foresight and Innovation Policy*](https://www.inderscience.com/jhome.php?jcode=ijfip){target="_blank"}, 14(2/3/4), 198. <https://doi.org/10.1504/IJFIP.2020.111223>{target="_blank"}
 
-<div>
-<p style = 'text-align:center;'>
-<img src="papers/bp2020.png" alt="JuveYell" width="300px">
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <img src="papers/bp2020.png" alt="JuveYell" width="300px"> -->
 <!-- <img src="papers/bp2020CS.png" alt="JuveYell" width="150px"> -->
-</p>
-</div>
+<!-- </p> -->
+<!-- </div> -->
 
 <!-- # Papers under review -->
 
@@ -79,20 +86,24 @@ Bianchi, C., Galaso, P.,& Palomeque, S. (2023). Knowledge complexity and brokera
 
 # Book chapters
 
-- Galaso, P., & Palomeque, S. (2024). Connecting innovation poles with lagging territories: how do collaborations with Europe and Asia influence innovation in Latin American cities? In L. Lazzeretti, T. Ozeki, S. R. Sedita, & F. Capone (Eds.), *Clusters in Times of Uncertainty*. Edward Elgar Publishing Ltd. <https://doi.org/10.4337/9781035315765.00019>{target="_blank"}
+- Galaso, P., & Palomeque, S. (2024). Connecting innovation poles with lagging territories: how do collaborations with Europe and Asia influence innovation in Latin American cities? In L. Lazzeretti, T. Ozeki, S. R. Sedita, & F. Capone (Eds.), [*Clusters in Times of Uncertainty*](https://www.elgaronline.com/edcollbook/book/9781035315765/9781035315765.xml). Edward Elgar Publishing Ltd. <https://doi.org/10.4337/9781035315765.00019>{target="_blank"}
 
-<!-- # Working papers -->
+# Working papers (selected)
 
-<!-- - Bianchi, C., Galaso, P., Palomeque, S., Picasso, S., & Rodríguez, A. (2021). Invención y patentes en Uruguay: evidencia empírica entre 1970 y 2018. *Serie Documentos de Trabajo*. DT 25/2021. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](<https://iecon.fcea.udelar.edu.uy/es/autores/item/dt-2521-invencion-y-patentes-en-uruguay-evidencia-empirica-entre-1970-y-2018.html?category_id=84>){target="_blank"} -->
-<!-- - Bianchi, C., Galaso, P., Palomeque, S. (2021) “The tradeoffs of brokerage in innovation networks: a study of Latin American cities”. *Serie Documentos de Trabajo*, DT 21/2021. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](<https://iecon.fcea.udelar.edu.uy/es/autores/item/dt-2121-the-tradeoffs-of-brokerage-in-innovation-networks-a-study-of-latin-american-cities.html?category_id=84>){target="_blank"} -->
-<!-- - Bianchi, C., Galaso, P., Palomeque, S. (2020) “Invention and Collaboration Networks in Latin America: Evidence from Patent Data”. *Serie Documentos de Trabajo*, DT 04/2020. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](<https://iecon.fcea.udelar.edu.uy/es/autores/item/dt-0420-invention-and-collaboration-networks-in-latin-america-evidence-from-patent-data.html?category_id=84>){target="_blank"} -->
+- Palomeque, S. (2025). Knowledge proximity and technological diversification. The role of stability and the alternatives. *Papers in Evolutionary Economic Geography*. No. 25.15. Utrecht. [Link](http://econ.geo.uu.nl/peeg/peeg2515.pdf)
+
+- Bianchi, C., Galaso, P., Maio, S., & Palomeque, S. (2025). Collaboration strategies for digitalization in the Uruguayan forestry industry: a social network analysis. *Serie Documentos de Trabajo*. DT 19/2025. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/collaboration-strategies-for-digitalization-in-the-uruguayan-forestry-industry-a-social-network-analysis.html){target="_blank"}
+
+- Bianchi, C., Galaso, P., Palomeque, S., Picasso, S., & Rodríguez, A. (2021). Invención y patentes en Uruguay: evidencia empírica entre 1970 y 2018. *Serie Documentos de Trabajo*. DT 25/2021. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/item/dt-2521-invencion-y-patentes-en-uruguay-evidencia-empirica-entre-1970-y-2018.html){target="_blank"}
+
+- Bianchi, C., Galaso, P., Palomeque, S. (2020) “Invention and Collaboration Networks in Latin America: Evidence from Patent Data”. *Serie Documentos de Trabajo*, DT 04/2020. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/item/dt-0420-invention-and-collaboration-networks-in-latin-america-evidence-from-patent-data.html){target="_blank"}
 
 # Ongoing work
 
-- Bianchi, C., Galaso, P., & Palomeque, S. The evolution of Latin American Innovation Systems at continental, national and local levels. A dynamic view on the center-periphery structure. **Under review in**: [*Science and Public Policy*](https://academic.oup.com/spp){target="_blank"}
-- Galaso, P., & Palomeque, S. The effects of local and global networks on cities’ innovation: improving locally while competing globally. **Under review in**: [*Growth and Change*](https://onlinelibrary.wiley.com/journal/14682257){target="_blank"}
-- Palomeque, S. Knowledge relatedness and technological diversification. The role of stability, alternatives and redundancy in the diversification. Target journal: [*Regional Studies*](https://www.tandfonline.com/journals/cres20){target="_blank"}
-- Bianchi, C., Boschma, R., Galaso, P., & Palomeque, S. Cities’ knowledge base: internal absorptive capacities and external collaboration complementarity. Target journal: *Economic Geography*(https://www.tandfonline.com/journals/recg20){target="_blank"}
-- Hernández, E., Moscatelli, F., Palomeque, S., & Raffo, J. Understanding global diversification processes by unpacking the multiple dimensions of capability relatedness. Target journal: *World Development*(https://www.sciencedirect.com/journal/world-development){target="_blank"}
-- Bianchi, C., Palomeque, S & Rapini, M. University patents in a peripheral system: from individual-led towards an organizational change in patenting activities. Target journal: *Science and Public Policy*(https://academic.oup.com/spp){target="_blank"}
-- Menéndez, M., Palomeque, S., Pietrobelli, C., \& Valverde, J. Green technological innovation in Latin America. Target journal: *Research Policy*(https://www.sciencedirect.com/journal/research-policy){target="_blank"}
+- Bianchi, C., Boschma, R., Galaso, P., & Palomeque, S. Cities’ knowledge base: internal absorptive capacities and external collaboration complementarity. Target journal: [*Regional Studies*](https://www.tandfonline.com/journals/cres20){target="_blank"}
+
+- Hernández, E., Moscatelli, F., Palomeque, S., & Raffo, J. Understanding global diversification processes by unpacking the multiple dimensions of capability relatedness. Target journal: [*Research Policy*](https://www.sciencedirect.com/journal/research-policy){target="_blank"}
+
+- Bianchi, C., Palomeque, S & Rapini, M. University patents in a peripheral system: from individual-led towards an organizational change in patenting activities. Target journal: [*Science and Public Policy*](https://academic.oup.com/spp){target="_blank"}
+
+- Belmartino, A., & Palomeque, S. A Systematic Literature Review on the green window opportunities and hidden risks of Critical Raw Materials in Latin America. Target journal: [*Resources Policy*](https://www.sciencedirect.com/journal/resources-policy)

@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 description: |
-  My teaching experience has been developed at undergraduate and postgraduate levels in courses on social network analysis applied to economics, labour economics, economic development, research methodology in economics and data analysis using [*R*](<https://www.r-project.org/>){target="_blank"}.
+  My teaching experience has been developed at undergraduate and postgraduate levels in courses on social network analysis applied to economics, labour economics, economic development, research methodology in economics, data analysis using [*R*](<https://www.r-project.org/>){target="_blank"} and information systems.
 ---
 
 ```{r setup, include=FALSE}
@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Undergraduate
 
+- Information Systems - Bachelor in Management - FCEA - UdelaR
+  - From 2025 to the present.
 - Databases and Statistical Packages - Bachelor's Degree in Economics - FCEA - UdelaR.
   - Between 2017 and 2024, I was part of the staff of this course, where I was responsible for the module on statistical software [*R*](<https://www.r-project.org/>){target="_blank"}.
 - Introduction to Research Methodology - Bachelor's Degree in Economics - FCEA - UdelaR.
